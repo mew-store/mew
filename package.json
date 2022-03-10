@@ -1,22 +1,22 @@
 {
   "name": "mew-store",
   "version": "1.0.0",
-  "description": "\u0000# mew-store # mew-store # mew-store # mew-store",
+  "description": "This Small Database In WebSite Work",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mew-store/mew-store.git"
+    "url": "git+https://github.com/mew-store/mew.git"
   },
   "keywords": [
     "MEW"
   ],
-  "author": "Hedi",
+  "author": "hedi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mew-store/mew-store/issues"
+    "url": "https://github.com/mew-store/mew/issues"
   },
-  "homepage": "https://github.com/mew-store/mew-store#readme"
+  "homepage": "https://github.com/mew-store/mew#readme"
 }

@@ -1,5 +1,4 @@
-function runLibrary(nameData){
-    console.log("Data: " + nameData)
+function run(namedata){
+    console.log("Data: "+ namedata)
 }
-
-module.exports = runLibrary;
+module.exports = run;
