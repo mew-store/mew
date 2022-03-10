@@ -1,5 +1,5 @@
 {
-  "name": "@korlteam/mew",
+  "name": "mewstore",
   "version": "1.0.0",
   "description": "This Small Database In WebSite Work",
   "main": "index.js",
